@@ -5,15 +5,19 @@ body {
 
     h1 {
     background-color: rgb(60, 73, 192);
-    text-align: center;
+    text-align: right;
     }
 
 h2{
-    background-color: rgb(35, 34, 39);
+    background-color: rgb(108, 76, 224);
     text-align: center;
   }
 
 h3{
     background-color: rgba(166, 219, 116, 0.774);
-    text-align: center;
+    text-align: right;
+}
+
+p { 
+    font-size: 25px; line-height: 3.0; 
 }
