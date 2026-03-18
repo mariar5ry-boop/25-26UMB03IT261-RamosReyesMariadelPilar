@@ -23,6 +23,12 @@ p{
     font-family: 'Comic Sans', Tahoma, Geneva, Verdana, sans-serif;
 
 }
+
 p { 
     font-size: 18px; line-height: 2.7; 
+}
+
+img {
+    width: 200px;
+
 }
