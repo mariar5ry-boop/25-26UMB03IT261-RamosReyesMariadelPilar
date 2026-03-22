@@ -1,0 +1,43 @@
+a:visited {
+    color: red
+}
+
+P{
+    font-size: 10px;
+}
+
+h1{
+    color:blueviolet
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    font-family:'Times New Roman', Times, serif;
+}
+
+input:focus {
+    background-color: rgb(74, 192, 127);
+}
+
+div{
+    background-color: aqua;
+}
+
+div h3{
+    color: brown;
+}
+
+div h3{
+    text-align: center;
+}
+
+button{
+    color: blue;
+}
+
+button{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
