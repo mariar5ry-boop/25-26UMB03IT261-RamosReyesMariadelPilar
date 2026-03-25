@@ -19,3 +19,25 @@ div h2{
 h1, h2, h3{
     color:blue
 }
+
+a:hover {
+    color: black;
+}
+
+button:active{
+    background-color: bisque;
+}
+
+li:first-child{
+    color:brown
+}
+
+li:nth-child(2){
+    color:aqua
+}
+
+input:focus {
+    background-color: rgb(74, 192, 127);
+}
+
+
