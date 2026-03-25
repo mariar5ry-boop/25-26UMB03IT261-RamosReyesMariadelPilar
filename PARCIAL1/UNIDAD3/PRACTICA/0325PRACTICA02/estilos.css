@@ -1,0 +1,21 @@
+p{
+    color:brown
+}
+
+.p1{
+    color:blueviolet
+}
+
+#parrafo{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div h2{
+    background-color: aquamarine;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+h1, h2, h3{
+    color:blue
+}
